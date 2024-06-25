@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="535c5ef6-25fd-41dd-970c-ed6c4f12682b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tAL3z9HUenNGeiEcGRgsof7mju" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.19010011026">
+    <configuration name="19010011026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Pc\PycharmProjects\untitled\untitled\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19010011026.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19010011049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Pc\PycharmProjects\untitled\untitled\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/KODLAMA/code blox/amiral battı" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/KODLAMA/code blox/amiral battı/19010011049.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Pc\PycharmProjects\untitled\untitled\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/KODLAMA/code blox/amiral battı" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/KODLAMA/code blox/amiral battı/asd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.19010011026" />
+      <item itemvalue="Python.19010011049" />
+      <item itemvalue="Python.asd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.19010011026" />
+        <item itemvalue="Python.19010011049" />
+        <item itemvalue="Python.asd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="535c5ef6-25fd-41dd-970c-ed6c4f12682b" name="Default Changelist" comment="" />
+      <created>1622206751239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622206751239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="74" key="#Inspections" timestamp="1622220007326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1622220007326" />
+    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622286149706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622286149706" />
+    <state x="414" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1622379864558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1622379864558" />
+    <state width="748" height="274" key="GridCell.Tab.0.bottom" timestamp="1622720341358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622720341358" />
+    <state width="748" height="274" key="GridCell.Tab.0.center" timestamp="1622720341358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="274" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622720341358" />
+    <state width="748" height="274" key="GridCell.Tab.0.left" timestamp="1622720341358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="274" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622720341358" />
+    <state width="748" height="274" key="GridCell.Tab.0.right" timestamp="1622720341358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="274" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622720341358" />
+    <state width="748" height="258" key="GridCell.Tab.1.bottom" timestamp="1622296032638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622296032638" />
+    <state width="748" height="258" key="GridCell.Tab.1.center" timestamp="1622296032638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622296032638" />
+    <state width="748" height="258" key="GridCell.Tab.1.left" timestamp="1622296032638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622296032638" />
+    <state width="748" height="258" key="GridCell.Tab.1.right" timestamp="1622296032638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="748" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622296032638" />
+    <state x="314" y="158" key="IDE.errors.dialog" timestamp="1622379856386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="314" y="158" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1622379856386" />
+    <state x="555" y="58" key="SettingsEditor" timestamp="1622220001118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622220001118" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-1" timestamp="1622481543929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1622481543929" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1622477715763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622477715763" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/KODLAMA/code blox/amiral battı/asd.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
